@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SayTime</string>
+    <string name="title_activity_speak">Speak</string>
+</resources>
